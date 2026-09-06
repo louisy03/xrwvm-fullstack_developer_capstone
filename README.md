@@ -1,4 +1,9 @@
-# Cars Dealership Application
+# fullstack_developer_capstone
+
+## Cars Dealership Application
+
+Project Name: fullstack_developer_capstone
+Repository: xrwvm-fullstack_developer_capstone
 
 A national car retailer web application to view dealership branches, browse car models, and submit dealer reviews with sentiment analysis. Developed as part of the IBM Full-Stack Development Capstone Project.
 
